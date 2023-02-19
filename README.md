@@ -5,6 +5,11 @@ Hackathon project
 
 
 Here are the resources I used in this project,
+
 Animations: https://animista.net/
+
+
 UI Principles: https://xd.adobe.com/ideas/process/ui-design/4-golden-rules-ui-design/
+
+
 JavaScript: stackoverflow
